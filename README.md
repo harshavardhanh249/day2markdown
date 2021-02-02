@@ -27,9 +27,11 @@ __*cse*__
 >>> surendra
 ## orderd list
 1. cse
-2. ece
-3. mech
       1. cse a
       2. cse b
+2. ece
+      1. ece a
+      2. ece b
+3. mech
 4. civil
 5. eee  
