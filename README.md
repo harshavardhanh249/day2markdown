@@ -45,7 +45,10 @@ __*cse*__
       * civil a
       * civil b
 - eee
-      
+## codeing
+~~~~
+print("ece first account")
+~~~~~
 
 
 
