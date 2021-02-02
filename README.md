@@ -65,6 +65,7 @@ print("hello")
 
 ## inserting images
 ![image](https://github.com/harshavardhanh249/day2markdown/blob/master/download.jpg)
-
+## inserting videos
+[![video]((https://img.youtube.com/vi/9ao4FEaDGhQ/0.jpg)](https://www.youtube.com/watch?v=9ao4FEaDGhQ)
 
 
