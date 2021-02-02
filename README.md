@@ -64,7 +64,7 @@ print("hello")
 [bunty](https://www.gmail.com)
 
 ## inserting images
-
+![image](https://github.com/harshavardhanh249/day2markdown/blob/master/download.jpg)
 
 
 
